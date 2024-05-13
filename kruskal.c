@@ -27,8 +27,7 @@ int main() {
 
     printf("\nKruskal's Algorithm:\n");
     kruskal();
-
-    printf("PRATIKSHA MEHTA \n6009220172 \nD087\n");
+    
     return 0;
 }
 
